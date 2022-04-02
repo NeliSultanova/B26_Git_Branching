@@ -4,6 +4,10 @@ public class TC002 {
     //test case 2
     //writing smoke
 
+    // creating a report
+
+    //screenshot in failure
+
 
 
 
